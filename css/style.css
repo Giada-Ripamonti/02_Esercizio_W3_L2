@@ -1,9 +1,11 @@
 body {
     background-color: rgb(255, 194, 81);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .dispensa  {
     width: 50%;
+    height: 100vh;
     margin: 0 auto;
     background-color: rgb(243, 225, 144);
     padding: 2rem;
@@ -14,7 +16,6 @@ body {
 
 .dispensa h1 {
     font-size: 3.5rem;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     text-transform: uppercase;
 }
